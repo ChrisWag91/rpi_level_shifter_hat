@@ -1,19 +1,22 @@
  # RPI Level Shifter HAT
-An open source Raspberry Pi hat for bidirectional 3V3 to 5V level shifting
+An open source Raspberry Pi Hat for bidirectional 3V3 to 5V level shifting
 
 ## INSERT PICTURE HERE!!!
 
 ## Features
 - comatible to Raspberry Pi 2/3/4
 - Bidirectional level shifting for all GPIOs
+- Optional Enable input with RPI Pin 37 (GPIO Pin 26) 
 - Optional 5V power in / out
 - Optional Raspberry 3V3 extension Header
+- NXP level shifter ic
+- 10mA per 5V Output
 
 ## Get PCBs Here:
 LINK TO EBAY
 
 ## Versions
-### rev_00
+### rev_01
 - initial realease
 
 *******************************************************************************************************************************

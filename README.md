@@ -2,7 +2,7 @@
 An open source Raspberry Pi Hat for bidirectional 3V3 to 5V level shifting
 
 <a target="_blank"><img src="https://github.com/ChrisWag91/rpi_level_shifter_hat/blob/master/Graphics/Rev01/F010_rpi_logic_level_shifter_hat_01.jpg?raw=true"
-height="200" border="0" /></a> |
+height="200" border="0" /></a>
 <a target="_blank"><img src="https://github.com/ChrisWag91/rpi_level_shifter_hat/blob/master/Graphics/Rev01/F010_rpi_logic_level_shifter_hat_02.jpg?raw=true"
 height="200" border="0" /></a> 
 

@@ -17,9 +17,11 @@ height="200" border="0" /></a>
 - Optional Raspberry GPIO extension Header
 - TI level shifter ic
 - 50mA continuous output current 
+- Enable indicator Led
+- Power indicator Led
 
-## Get PCB kits Here:
-# LINK TO EBAY
+## Get PCB kits here:
+https://www.ebay.de/itm/254674762451
 
 ## Usage
 <a target="_blank"><img src="https://github.com/ChrisWag91/rpi_level_shifter_hat/blob/master/Graphics/Rev_00/F010_rpi_logic_level_shifter_hat_photo.JPG?raw=true"

@@ -12,8 +12,8 @@ height="200" border="0" /></a>
 - Optional Enable input with RPI Pin 37 (GPIO Pin 26) 
 - Optional 5V power in / out
 - Optional Raspberry 3V3 extension Header
-- NXP level shifter ic
-- 10mA per 5V Output
+- TI level shifter ic
+- 50mA continuous output current 
 
 ## Get PCBs Here:
 # LINK TO EBAY
@@ -24,7 +24,7 @@ height="200" border="0" /></a>
 
 
 ## Versions
-### rev_01
+### rev_00
 - initial realease
 
 *******************************************************************************************************************************

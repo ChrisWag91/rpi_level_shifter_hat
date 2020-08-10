@@ -1,7 +1,7 @@
  # RPI Level Shifter Hat
 An open source Raspberry Pi Hat for bidirectional 3V3 to 5V level shifting
 
-*Attention:* Pull GPIO 26 high after boot in order to activate the borad. This prevents uncontrolled behaviour during boot up.
+*Attention:* Pull GPIO 26 high after boot in order to activate the board. This prevents uncontrolled behaviour during boot up.
 
 <a target="_blank"><img src="https://github.com/ChrisWag91/rpi_level_shifter_hat/blob/master/Graphics/Rev_00/F010_rpi_logic_level_shifter_hat_kicad_iso.jpg?raw=true"
 height="200" border="0" /></a>
@@ -10,12 +10,12 @@ height="200" border="0" /></a>
 
 
 ## Features
-- comatible to Raspberry Pi 2/3/4
+- compatible to Raspberry Pi 2/3/4
 - Bidirectional level shifting for all GPIOs
 - Enable level shifter with RPI Pin 37 (GPIO Pin 26) 
 - Optional 5V power in / out
 - Optional Raspberry GPIO extension Header
-- TI level shifter ic
+- TI level shifter ICs
 - 50mA continuous output current 
 - Enable indicator Led
 - Power indicator Led
@@ -23,13 +23,20 @@ height="200" border="0" /></a>
 ## Get PCB kits here:
 https://www.ebay.de/itm/254674762451
 
+## Mounting Hardware
+- 1pcs  40 Pin Header Female (20x2 Pins)
+- 1pcs  40 Pin Header Female (20x2 Pins) (Optional)
+- 1pcs  screw Terminal P= 5mm (Optional)
+- 4pcs  M2.5 x 12mm Standoffs
+- 4pcs  M2.5 x 5mm Screws
+
 ## Usage
 <a target="_blank"><img src="https://github.com/ChrisWag91/rpi_level_shifter_hat/blob/master/Graphics/Rev_00/F010_rpi_logic_level_shifter_hat_photo.JPG?raw=true"
 height="200" border="0" /></a> 
 
 ## Versions
 ### rev_00
-- initial realease
+- initial release
 
 *******************************************************************************************************************************
 

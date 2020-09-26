@@ -10,7 +10,8 @@ height="200" border="0" /></a>
 
 
 ## Features
-- compatible to Raspberry Pi 2/3/4
+- compatible with Raspberry Pi 2/3/4 (rev_00 and rev_02)
+- compatible with Raspberry Pi Zero / Zero W (rev_02 only) 
 - Bidirectional level shifting for all GPIOs
 - Enable level shifter with RPI Pin 37 (GPIO Pin 26) 
 - Optional 5V power in / out
@@ -19,9 +20,12 @@ height="200" border="0" /></a>
 - 50mA continuous output current 
 - Enable indicator Led
 - Power indicator Led
+- Optional external enable (rev_02 only)
 
 ## Get PCB kits here:
 https://www.ebay.de/itm/254674762451
+
+https://www.tindie.com/products/chris_wag/rpi-level-shifter-hat/
 
 ## Mounting Hardware
 - 1pcs  40 Pin Header Female (20x2 Pins)
@@ -37,6 +41,11 @@ height="200" border="0" /></a>
 ## Versions
 ### rev_00
 - initial release
+
+### rev_02
+- external enable pad added
+- RPI Zero screw holes added
+- correction & optimizasion of silk screen
 
 *******************************************************************************************************************************
 

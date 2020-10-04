@@ -38,6 +38,19 @@ https://www.tindie.com/products/chris_wag/rpi-level-shifter-hat/
 <a target="_blank"><img src="https://github.com/ChrisWag91/rpi_level_shifter_hat/blob/master/Graphics/Rev_00/F010_rpi_logic_level_shifter_hat_photo.JPG?raw=true"
 height="200" border="0" /></a> 
 
+### Enable after boot
+Copy the script "enable_rpi_logic_level_shifter.py" from the folder "Examples" to a local directory on your raspberry and add it to the autostart file as follows:
+
+```console	
+sudo nano /etc/rc.local
+```
+
+Add the following line before "exit 0":
+
+```console	
+python /[insert local path to the enable script]/enable_rpi_logic_level_shifter.py &
+```
+
 ## Versions
 ### rev_00
 - initial release
@@ -45,7 +58,7 @@ height="200" border="0" /></a>
 ### rev_02
 - external enable pad added
 - RPI Zero screw holes added
-- correction & optimizasion of silk screen
+- correction & optimization of silk screen
 
 *******************************************************************************************************************************
 

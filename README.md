@@ -3,9 +3,10 @@ An open source Raspberry Pi Hat for bidirectional 3V3 to 5V level shifting
 
 This device is intended to allow communication between a Raspberry Pi and a 5V microcontroller such as an Arduino.
 
-Example:
+*Example:*
 
 **RASPBERRY Pi** <==3V3 Signal==> **RPI Level Shifter Hat** <==5V Signal==> **Arduino**
+
 
 *Attention:* Pull GPIO 26 high after boot in order to activate the board. This prevents uncontrolled behaviour during boot up.
 
@@ -32,14 +33,7 @@ height="200" border="0" /></a>
 - Optional external enable (rev_02 only)
 
 ## Get PCB kits here:
-https://www.ebay.de/itm/254674762451 -> CURRENTLY SOLD OUT
-
-https://www.tindie.com/products/chris_wag/rpi-level-shifter-hat/
-
-Unfortunately the first batch of kits is nearly sold out.
-I will restock the components shortly. Watch this space! 
-Meanwhile feel free to source the PCB and Hardware yourself. 
-Design files are available under *PCB* and *BOM*.
+https://www.ebay.de/itm/254765676288
 
 https://www.tindie.com/products/chris_wag/rpi-level-shifter-hat/
 

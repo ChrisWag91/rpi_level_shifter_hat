@@ -1,0 +1,13 @@
+Comment,Designator,Footprint,LCSC, LCSC
+"0.1uF","C1,C2","Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder","","C49678","","","","","","","","",""
+"D","D2,D1","Diode_SMD:D_SOD-123F","","C64898","","","","","","","","",""
+"LED_red","D4,D3","digikey-footprints:0805","","C84256","","","","","","","","",""
+"Raspberry_Pi_2_3","J1","Connector_PinSocket_2.54mm:PinSocket_2x20_P2.54mm_Vertical",""
+"Ext_EN","J2","Connector_Wire:SolderWire-0.75sqmm_1x01_D1.25mm_OD2.3mm",""
+"PWR_5V","J3","TerminalBlock_RND:TerminalBlock_RND_205-00045_1x02_P5.00mm_Horizontal",""
+"rpi_extension_conn","J4","Connector_PinHeader_2.54mm:PinHeader_2x20_P2.54mm_Vertical",""
+"rpi_extension_5V_conn","J5","Connector_PinHeader_2.54mm:PinHeader_2x20_P2.54mm_Vertical",""
+"470R","R1","Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder","","C17710","","","","","","","","",""
+"100R","R2","Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder","","C17408","","","","","","","","",""
+"10K","R3","Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder","","C17414","","","","","","","","",""
+"TXB0108PWR","U1,U2,U3,U4","digikey-footprints:TSSOP-20_W4.4mm","","C53406"

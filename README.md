@@ -26,7 +26,7 @@ height="200" border="0" /></a>
 - Enable level shifter with RPI Pin 37 (GPIO Pin 26) 
 - Optional 5V power in / out
 - Optional Raspberry GPIO extension Header
-- TI level shifter ICs
+- TXB0108 TI level shifter ICs ([Datasheet](https://www.ti.com/lit/ds/symlink/txb0108.pdf?ts=1597483061918&ref_url=https%253A%252F%252Fwww.google.com%252F))
 - Enable indicator Led
 - Power indicator Led
 - Optional external enable (rev_02 only)

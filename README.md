@@ -7,16 +7,10 @@ This device is intended to allow communication between a Raspberry Pi and a 5V m
 
 **RASPBERRY Pi** <==3V3 Signal==> **RPI Level Shifter Hat** <==5V Signal==> **Arduino**
 
-
-*Attention:* Pull GPIO 26 high after boot in order to activate the board. This prevents uncontrolled behaviour during boot up.
-
-*Attention:* Make sure to check the steps given under *Usage & Setup*
+Make sure to check the steps given under *Usage & Setup*
 
 <a target="_blank"><img src="https://github.com/ChrisWag91/rpi_level_shifter_hat/blob/master/Graphics/Rev_02/F010_rpi_logic_level_shifter_hat_kicad_iso.jpg?raw=true"
 height="200" border="0" /></a>
-<a target="_blank"><img src="https://github.com/ChrisWag91/rpi_level_shifter_hat/blob/master/Graphics/Rev_02/F010_rpi_logic_level_shifter_hat_kicad_top.jpg?raw=true"
-height="200" border="0" /></a> 
-
 <a target="_blank"><img src="https://github.com/ChrisWag91/rpi_level_shifter_hat/blob/master/Graphics/Rev_02/F010_rpi_logic_level_shifter_hat_photo_iso.jpg?raw=true"
 height="200" border="0" /></a> 
 

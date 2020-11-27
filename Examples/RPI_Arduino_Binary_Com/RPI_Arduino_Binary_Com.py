@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 # Demo binary communication between Raspberry Pi and Arduino
 # 4 bit Raspberry --> Arduino
 # 4 bit Arduino --> Raspberry

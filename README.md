@@ -27,7 +27,7 @@ height="200" border="0" /></a>
 - Optional external enable (rev_02 only)
 
 ## Get PCB kits here:
-https://www.ebay.de/itm/254765676288
+https://www.ebay.at/itm/254814381287
 
 https://www.tindie.com/products/chris_wag/rpi-level-shifter-hat/
 

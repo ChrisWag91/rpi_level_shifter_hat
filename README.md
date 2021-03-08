@@ -27,9 +27,9 @@ height="200" border="0" /></a>
 - Optional external enable (rev_02 only)
 
 ## Get PCB kits here:
-https://www.ebay.at/itm/254863761350
-
 https://www.tindie.com/products/chris_wag/rpi-level-shifter-hat/
+
+https://www.ebay.de/itm/254895227518
 
 ## Mounting Hardware
 - 1pcs  40 Pin Header Female (20x2 Pins)
